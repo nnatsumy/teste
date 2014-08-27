@@ -19,9 +19,6 @@ public class Teste2 {
         System.out.println("oi");
         System.out.println("mundo");
         System.out.println("o código novamente");
-        int x = 4,y = 3,z = y+x;
-        System.out.println(z);
-        
     }
     
 }
