@@ -16,9 +16,6 @@ public class Teste2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("oi");
-        System.out.println("mundo");
-        System.out.println("o código novamente");
     }
     
 }
